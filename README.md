@@ -1,10 +1,22 @@
-# Getting Started with Create React App
+# Contact management app with Maps and Charts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Contact management app with a form to add contact, edit contact and delete contact.
 
-## Available Scripts
+# Setup
 
-In the project directory, you can run:
+Followig are the requirements to run this project:
+
+* Node Package Manager (NPM)
+
+* React
+
+# Usage
+
+Code Examples
+
+* To run this project in your device, download the repository and open terminal in your editor and run command…
+
+npm start
 
 ### `npm start`
 

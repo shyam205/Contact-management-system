@@ -1,0 +1,5 @@
+export const ActionTypes = {
+    SAVE_CONTACT : 'SAVE_CONTACT',
+    EDIT_CONTACT : 'EDIT_CONTACT',
+    DELETE_CONTACT : 'DELETE_CONTACT'
+};

@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.map .leaflet-container{
+  height:600px;
+}
+.linegraph canvas{
+  height: 580px !important;
+}
+
+@media screen and (max-width:480px){
+  .dough canvas{
+    width:340px !important;
+    height: 380px !important;
+  }
+  .linegraph canvas {
+    height: 245px !important;
+  }
+}
